@@ -11,3 +11,11 @@ h1{
             width:500px;
             display: block ;
         }
+        footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: rgb(43, 7, 201);
+}
