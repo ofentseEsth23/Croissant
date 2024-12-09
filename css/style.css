@@ -5,4 +5,9 @@ body{
 h1{
             text-align: center;
         }
-        
+        p{text-align: center;
+        font-size: large;}
+        img{
+            width:500px;
+            display: block ;
+        }
